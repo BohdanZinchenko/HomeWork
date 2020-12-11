@@ -1,0 +1,7 @@
+D:\PMAcademy\PmTask_1_1\PmTask_1_1\bin\Debug\PmTask_1_1.exe.config
+D:\PMAcademy\PmTask_1_1\PmTask_1_1\bin\Debug\PmTask_1_1.exe
+D:\PMAcademy\PmTask_1_1\PmTask_1_1\bin\Debug\PmTask_1_1.pdb
+D:\PMAcademy\PmTask_1_1\PmTask_1_1\obj\Debug\PmTask_1_1.csprojAssemblyReference.cache
+D:\PMAcademy\PmTask_1_1\PmTask_1_1\obj\Debug\PmTask_1_1.csproj.CoreCompileInputs.cache
+D:\PMAcademy\PmTask_1_1\PmTask_1_1\obj\Debug\PmTask_1_1.exe
+D:\PMAcademy\PmTask_1_1\PmTask_1_1\obj\Debug\PmTask_1_1.pdb
